@@ -8,3 +8,7 @@ A small Wellington based mountain biking company/community with a current wordpr
 ### Stretch
   * Basic booking for coaching sessions.
 
+From the `sample-scss-project` directory, run:
+```bash
+sass --watch scss/:css/
+```
