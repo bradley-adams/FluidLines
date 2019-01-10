@@ -2,4 +2,11 @@
   color: red;
 }
 
+html {
+  background: url(../img/logo.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
 /*# sourceMappingURL=app.css.map */
