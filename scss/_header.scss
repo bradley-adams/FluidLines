@@ -9,4 +9,12 @@ body {
         color: maroon;
         text-align: center;
     }
+    &__tiles {
+        text-align: center;
+
+        &--item {
+            color: maroon;
+            padding: 8px;
+        }
+    }
 }
