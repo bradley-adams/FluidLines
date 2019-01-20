@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #fff;
+    width: 100%;   
+    &__title {
+        color: maroon;
+        text-align: center;
+    }
+}

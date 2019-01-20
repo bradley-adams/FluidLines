@@ -3,4 +3,17 @@ body {
   background-size: cover;
 }
 
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #fff;
+  width: 100%;
+}
+.header__title {
+  color: maroon;
+  text-align: center;
+}
+
 /*# sourceMappingURL=app.css.map */
