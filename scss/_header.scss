@@ -1,9 +1,6 @@
-body {
-    margin: 0;
-}
-
 .header {
     background-color: #fff;
+    height: 10%;
     width: 100%;   
     &__title {
         color: maroon;
@@ -15,6 +12,7 @@ body {
         &--item {
             color: maroon;
             padding: 8px;
+            text-decoration: none;
         }
     }
 }

@@ -1,14 +1,12 @@
-body {
-  background: url(../images/seatbike.jpg) no-repeat center center fixed;
+.homepage {
+  background: url(../images/home.jpg) no-repeat center center fixed;
   background-size: cover;
-}
-
-body {
-  margin: 0;
+  margin: auto;
 }
 
 .header {
   background-color: #fff;
+  height: 10%;
   width: 100%;
 }
 .header__title {
@@ -21,6 +19,7 @@ body {
 .header__tiles--item {
   color: maroon;
   padding: 8px;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=app.css.map */
