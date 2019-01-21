@@ -6,15 +6,17 @@
 
 .header {
   background-color: #fff;
-  height: 10%;
   width: 100%;
+  overflow-x: hidden;
 }
 .header__title {
   color: maroon;
   text-align: center;
+  font-family: "Pacifico", cursive;
 }
 .header__tiles {
   text-align: center;
+  padding-bottom: 8px;
 }
 .header__tiles--item {
   color: maroon;
