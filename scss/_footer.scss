@@ -1,0 +1,19 @@
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    &__link {
+        padding: 8px;
+        &--about {
+            text-decoration: none;
+            color: #fff;
+            padding: 8px;
+        }
+        &--contact {
+            text-decoration: none;
+            color: #fff;
+            padding: 8px;
+        }
+    }
+}

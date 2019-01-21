@@ -10,6 +10,7 @@
   overflow-x: hidden;
 }
 .header__title {
+  font-size: 50px;
   color: maroon;
   text-align: center;
   font-family: "Pacifico", cursive;
@@ -22,6 +23,26 @@
   color: maroon;
   padding: 8px;
   text-decoration: none;
+}
+
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
+.footer__link {
+  padding: 8px;
+}
+.footer__link--about {
+  text-decoration: none;
+  color: #fff;
+  padding: 8px;
+}
+.footer__link--contact {
+  text-decoration: none;
+  color: #fff;
+  padding: 8px;
 }
 
 /*# sourceMappingURL=app.css.map */
