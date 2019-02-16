@@ -18,6 +18,12 @@
             color: $header-color;
             padding: 8px;
             text-decoration: none;
+            &:hover {
+                color: $header-color-light;
+            }
+            &:active {
+                color: $header-color-dark;
+            }
         }
     }
 }

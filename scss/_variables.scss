@@ -4,3 +4,5 @@ $fluid-font: 'Pacifico', cursive;
 
 // Header
 $header-color: maroon;
+$header-color-light: lighten( $header-color, 10% );
+$header-color-dark: darken( $header-color, 10% );

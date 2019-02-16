@@ -24,6 +24,12 @@
   padding: 8px;
   text-decoration: none;
 }
+.header__tiles--item:hover {
+  color: #b30000;
+}
+.header__tiles--item:active {
+  color: #4d0000;
+}
 
 .footer {
   width: 100%;
